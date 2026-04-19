@@ -48,12 +48,11 @@ Un hub USB modificado que permite que ambos dispositivos funcionen simultáneame
 
 ## 📦 Estructura del proyecto
 digispark/
-digispark_en.ino
-digispark_es.ino
+  - digispark_en.ino
+  - digispark_es.ino
 
 payloads/
-extractor.bat
-
+  - extractor.bat
 
 ---
 
