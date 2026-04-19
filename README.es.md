@@ -8,7 +8,7 @@ Herramienta de extracción de datos mediante USB, diseñada para uso educativo y
 
 ## 🖼️ Vista previa
 
-![NyxUSB Prototype](images/nyxusb.jpg)
+![NyxUSB Prototype](nyxusb.jpg)
 
 > Prototipo actual de NyxUSB (Digispark + USB + hub modificado)
 
