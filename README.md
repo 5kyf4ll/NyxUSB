@@ -8,7 +8,7 @@ Silent USB-based data extraction tool designed for educational and authorized se
 
 ## 🖼️ Preview
 
-![NyxUSB Prototype](images/nyxusb.jpg)
+![NyxUSB Prototype](nyxusb.jpg)
 
 > Current NyxUSB prototype (Digispark + USB + modified hub)
 
