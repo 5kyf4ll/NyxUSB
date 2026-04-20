@@ -101,8 +101,8 @@ This project provides adapted versions for both environments, ensuring proper fu
 ## 🧪 Demo / Result
 
 <p align="center">
-  <a href="https://youtu.be/nLK7BzSAioM">
-    <img src="https://img.youtube.com/vi/nLK7BzSAioM/0.jpg" width="600">
+  <a href="https://youtu.be/ostNAd521N8">
+    <img src="https://img.youtube.com/vi/ostNAd521N8/0.jpg" width="600">
   </a>
 </p>
 
