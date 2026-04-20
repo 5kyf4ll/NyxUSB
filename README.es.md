@@ -100,7 +100,11 @@ Este proyecto implementa versiones adaptadas para ambos entornos, permitiendo su
 
 ## 🧪 Demo / Resultado
 
-*(Aquí puedes agregar más adelante un GIF, video o capturas del proceso en ejecución)*
+<p align="center">
+  <a href="https://youtu.be/nLK7BzSAioM">
+    <img src="https://img.youtube.com/vi/nLK7BzSAioM/0.jpg" width="600">
+  </a>
+</p>
 
 ---
 
