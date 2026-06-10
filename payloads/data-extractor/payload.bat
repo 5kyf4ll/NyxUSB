@@ -5,7 +5,7 @@
 :: ====================================================
 :: Cambia estos parametros segun tus necesidades:
 
-set "NOMBRE_USB=Extractor"
+set "NOMBRE_USB=Nyx"
 set "ORIGEN=D:\"
 set "FILTRO=*.png"
 
